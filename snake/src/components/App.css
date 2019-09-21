@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+
+
+#rNum {
+    color: purple;
+    display: inline-block;
+    background-color:aqua;
+    padding: 50px;
+    font-size: 40px;
+    box-shadow: inset -10px -10px 100px #000, 10px 10px 20px black, inset 0px 0px 10px black;
+    border-radius: 50%;
+    
+  }
+  .imagestyle{
+      float: right;
+      margin-right: 120px;
+      
+  }
+  hr {
+    border-top: 3px dashed #FF7133;
+  }
+  .table{
+      width:50%;
+  }
+  th,tr,td{
+      border:2px solid yellow;
+  }
+  .bg{
+      background-image: url("bg.jpg");
+  }
